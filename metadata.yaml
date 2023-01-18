@@ -1,0 +1,30 @@
+_repo: Princess-Sukey-The-story-of-a-pigeon-and-her-human-friends_69707
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Saunders, Marshall
+    alias: Saunders, Margaret Marshall
+    birthdate: 1861
+    deathdate: 1947
+    gutenberg_agent_id: '1041'
+    url: http://www.gutenberg.org/2009/agents/1041
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
+description: ''
+gutenberg_issued: '2023-01-04'
+identifiers:
+  gutenberg: '69707'
+language: en
+pgterms:marc904: https://archive.org/details/princesssukeysto00saunuoft
+pgterms:marc905: 20190915161408saunders
+pgterms:marc906: '1905'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Eaton & Mains,1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Princess Sukey: The story of a pigeon and her human friends'
+url: http://www.gutenberg.org/ebooks/69707
