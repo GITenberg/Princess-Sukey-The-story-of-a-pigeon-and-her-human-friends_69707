@@ -1,5 +1,8 @@
 _repo: Princess-Sukey-The-story-of-a-pigeon-and-her-human-friends_69707
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69707-h/images/cover.jpg
 creator:
   author:
     agent_name: Saunders, Marshall
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1041
     wikipedia: https://en.wikipedia.org/wiki/Margaret_Marshall_Saunders
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69707#Princess-Sukey-The-story-of-a-pigeon-and-her-human-friends
 gutenberg_issued: '2023-01-04'
 identifiers:
   gutenberg: '69707'
